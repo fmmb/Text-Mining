@@ -1,9 +1,5 @@
 # Text Mining
-
-# Text Mining 2020/2021
 ## Fernando Batista e Ricardo Ribeiro
-Gralhas ou Sugestões: `fernando.batista@iscte-iul.pt`
-
 
 ## Conteúdo
 
