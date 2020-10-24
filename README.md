@@ -5,7 +5,6 @@
 
 1. Introdução
     * [Ambiente Jupyter Notebook e exemplos introdutórios de Python](./aulas/jupyter_notebooks.ipynb)
-    * [Tutorial mais completo sobre Jupyter Notebook](ABD_tutorial/Tutorial.ipynb) (cedido pelo colega João Oliveira)
     * [NLP e Text Mining com python](./aulas/nlp_tm_python.ipynb)
 2. Pré-processamento com vista à representação de documentos
     * [Leitura de ficheiros CSV](./aulas/read_csv_files.ipynb)
