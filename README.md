@@ -12,9 +12,8 @@
     * [Representação de documentos](./aulas/document_representation.ipynb). Ver também este [tutorial sobre gensim](./aulas/gensim_corpora_and_vector_spaces.ipynb)
     * [Embeddings](./aulas/embeddings.ipynb): word2vec, glove, etc
 3. [Classificação](./aulas/classificacao.ipynb)
-4. [Análise de Sentimento](./aulas/Sentiment_Analysis.ipynb)
+4. Análise de Sentimento: [intro](./aulas/SA-intro.ipynb), [features and document representation](./aulas/SA-features.ipynb), [sentiment classification](./aulas/SA-sklearn.ipynb)
 5. [Modelação de tópicos](./aulas/Topic_Modelling.ipynb)
-
 
 ## Referências
 
