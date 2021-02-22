@@ -1,0 +1,7 @@
+*** AVISO ****
+
+Esta diretoria (TM) é atualizada periodicamente, consoante a atualização de materiais da UC.
+
+Não deve colocar os seus ficheiros neste diretório ou subdiretório, pois serão periodicamente eliminados quando for feita uma atualização. Qualquer alteração a ficheiros desta diretoria será também perdida quando forem feitas atualizações.
+
+Coloque os seus diretórios e ficheiros na sua "home directory"
