@@ -3,7 +3,7 @@
 
 ## Conteúdo
 
-1. Introdução
+1. Introdução ao Python (opcional)
     * [Jupyter notebook e exemplos introdutórios de Python](./aulas/jupyter_notebooks.ipynb)
     * Homework: [Introduction to Python](./aulas/01-intro-python.ipynb) and [exercises](./aulas/01-intro-python-hw.ipynb)
     * Optional tutorial: [Jupyter Notebooks and Python elements](ABD_tutorial/Tutorial.ipynb) (cedido pelo colega João Oliveira)
@@ -12,11 +12,11 @@
     * [Tokenização](./aulas/tokenization.ipynb) básica com NLTK, tokenização de tweets
     * [Representação de documentos](./aulas/document_representation.ipynb). Ver também este [tutorial sobre gensim](./aulas/gensim_corpora_and_vector_spaces.ipynb)
     * [Natural Language Processing (NLP) libraries](./aulas/nlp_tm_python.ipynb)
-3. [Classificação](./aulas/classificacao.ipynb) de textos
-4. Análise de Sentimento: [intro](./aulas/SA-intro.ipynb), [features and document representation](./aulas/SA-features.ipynb), [sentiment classification](./aulas/SA-sklearn.ipynb)
-5. Intelligent word representations
+3. Intelligent word representations
     * [Embeddings](./aulas/embeddings.ipynb): word2vec, glove, etc
-6. [Modelação de tópicos](./aulas/Topic_Modelling.ipynb)
+4. [Classificação](./aulas/classificacao.ipynb) de textos
+    * Análise de Sentimento: [intro](./aulas/SA-intro.ipynb), [features and document representation](./aulas/SA-features.ipynb), [sentiment classification](./aulas/SA-sklearn.ipynb)
+5. [Modelação de tópicos](./aulas/Topic_Modelling.ipynb)
 ## Referências
 
 1. [Linguagem python (wikipedia)](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
