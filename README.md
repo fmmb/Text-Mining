@@ -1,7 +1,7 @@
 # Text Mining
 ## Fernando Batista e Ricardo Ribeiro
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fmmb/Text-Mining/blob/main/aulas/read_csv_files.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fmmb/Text-Mining/blob/main/aulas.ipynb)
 
 ## Conteúdo
 
