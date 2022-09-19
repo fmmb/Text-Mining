@@ -1,6 +1,10 @@
 # Text Mining
 ## Fernando Batista e Ricardo Ribeiro
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/fmmb/Text-Mining)
+
+[Launch this on binder](http://mybinder.org:/repo/fmmb/Text-Mining)
+
 ## Conteúdo
 
 1. Introdução ao Python (opcional)
