@@ -1,9 +1,7 @@
 # Text Mining
 ## Fernando Batista e Ricardo Ribeiro
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/fmmb/Text-Mining)
-
-[Launch this on binder](http://mybinder.org:/repo/fmmb/Text-Mining)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fmmb/Text-Mining/blob/main/aulas/read_csv_files.ipynb)
 
 ## Conteúdo
 
