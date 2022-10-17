@@ -18,9 +18,10 @@
     * [Embeddings](./aulas/embeddings.ipynb): word2vec, glove, etc
 4. [Classificação](./aulas/classificacao.ipynb) de textos
 5. Análise de Sentimento
-    * [Introdução](./aulas/SA-intro.ipynb)
+    * [Exemplos introdutórios](./aulas/SA-intro.ipynb)
     * [Features and document representation](./aulas/SA-features.ipynb)
     * [Sentiment classification (scikit-learn)](./aulas/SA-sklearn.ipynb)
+    * [Using pre-trained models](./aulas/pre-trained-models-sa.ipynb) (draft)
 6. [Modelação de tópicos](./aulas/Topic_Modelling.ipynb)
 
 ## Referências
