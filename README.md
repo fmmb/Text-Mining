@@ -22,7 +22,7 @@
     * [Features and document representation](./aulas/SA-features.ipynb)
     * [Sentiment classification (scikit-learn)](./aulas/SA-sklearn.ipynb)
     * [Using pre-trained models](./aulas/pre-trained-models-sa.ipynb) (draft)
-6. [Modelação de tópicos](./aulas/Topic_Modelling.ipynb)
+6. [Modelação de tópicos](./aulas/topic_modelling.ipynb)
 
 ## Referências
 
