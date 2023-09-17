@@ -5,10 +5,9 @@
 
 ## Conteúdo
 
-1. Introdução ao Python (opcional)
+1. Introdução ao Python e ao Jupyter Notebook (opcional)
     * [Jupyter notebook e exemplos introdutórios de Python](./aulas/jupyter_notebooks.ipynb)
     * Homework: [Introduction to Python](./aulas/01-intro-python.ipynb) and [exercises](./aulas/01-intro-python-hw.ipynb)
-    * Optional tutorial: [Jupyter Notebooks and Python elements](ABD_tutorial/Tutorial.ipynb) (cedido pelo colega João Oliveira)
     * [Leitura de ficheiros CSV](./aulas/read_csv_files.ipynb)
 2. Pré-processamento com vista à representação de documentos
     * [Tokenização](./aulas/tokenization.ipynb) básica, tokenização com NLTK, tokenização de tweets
@@ -21,8 +20,9 @@
     * [Exemplos introdutórios](./aulas/SA-intro.ipynb)
     * [Features and document representation](./aulas/SA-features.ipynb)
     * [Sentiment classification (scikit-learn)](./aulas/SA-sklearn.ipynb)
-    * [Using pre-trained models](./aulas/pre-trained-models-sa.ipynb) (draft)
+    * [Testing all the approaches, including pre-trained models](./aulas/sa-strategies.ipynb) (draft)
 6. [Modelação de tópicos](./aulas/topic_modelling.ipynb)
+
 
 ## Referências
 
