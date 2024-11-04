@@ -13,7 +13,8 @@
 2. Pré-processamento com vista à representação de documentos
     * [Tokenização](./aulas/tokenization.ipynb) - tokenização básica, tokenização com NLTK, tokenização de tweets
     * [NLP libraries](./aulas/nlp_tm_python.ipynb) for tokenization, sentence segmentation, stemming, part-of-speech, NER and sentiment analysis
-3. [Representação de documentos](./aulas/document_representation.ipynb)
+3. Representação de documentos
+    * [Representação de documentos e cálculo de similaridade](./aulas/document_representation.ipynb)
     * [Gensim tutorial](./aulas/gensim_corpora_and_vector_spaces.ipynb) on corpora and vector spaces 
 4. Intelligent word representations
     * [Embeddings](./aulas/embeddings.ipynb): word2vec, glove, etc
