@@ -22,11 +22,12 @@
     * [Classical models](./aulas/classification.ipynb)
     * [BERT-based classification](./aulas/classification.ipynb)
 6. Análise de Sentimento
-    * [Exemplos introdutórios](./aulas/SA-intro.ipynb)
-    * [Features and document representation](./aulas/SA-features.ipynb)
-    * [Sentiment classification (scikit-learn)](./aulas/SA-sklearn.ipynb)
-    * [Testing all the approaches, including pre-trained models](./aulas/sa-strategies.ipynb) (draft)
+    * [Creating your own classifier (step by step)](./aulas/SA-features.ipynb)
+    * [Creating your own classifier (scikit-learn)](./aulas/SA-sklearn.ipynb)
+    * [Testing different approaches](./aulas/sa-strategies.ipynb)
 7. [Modelação de tópicos](./aulas/topic_modelling.ipynb)
+
+
 
 ## Referências
 
