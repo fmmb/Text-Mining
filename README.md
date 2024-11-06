@@ -20,13 +20,12 @@
     * [Embeddings](./aulas/embeddings.ipynb): word2vec, glove, etc
 5. Classificação
     * [Classical models](./aulas/classification.ipynb)
-    * [BERT-based classification](./aulas/classification.ipynb)
+    * [BERT-based classification](./aulas/BERT_based_classification.ipynb)
 6. Análise de Sentimento
     * [Creating your own classifier (step by step)](./aulas/SA-features.ipynb)
     * [Creating your own classifier (scikit-learn)](./aulas/SA-sklearn.ipynb)
     * [Testing different approaches](./aulas/sa-strategies.ipynb)
 7. [Modelação de tópicos](./aulas/topic_modelling.ipynb)
-
 
 
 ## Referências
