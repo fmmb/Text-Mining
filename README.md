@@ -21,6 +21,7 @@
 5. Classificação
     * [Classical models](./aulas/classification.ipynb)
     * [BERT-based classification](./aulas/BERT_based_classification.ipynb)
+    * [Classification with Neural Networks](./aulas/nn.ipynb)
 6. Análise de Sentimento
     * [Creating your own classifier (step by step)](./aulas/SA-features.ipynb)
     * [Creating your own classifier (scikit-learn)](./aulas/SA-sklearn.ipynb)
