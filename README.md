@@ -26,7 +26,9 @@
     * [Creating your own classifier (step by step)](./aulas/SA-features.ipynb)
     * [Creating your own classifier (scikit-learn)](./aulas/SA-sklearn.ipynb)
     * [Testing different approaches](./aulas/sa-strategies.ipynb)
-7. [Modelação de tópicos](./aulas/topic_modelling.ipynb)
+7. Modelação de tópicos
+    * [Modelação de tópicos (gensim)](./aulas/topic_modelling.ipynb)
+    * [Modelação de tópicos (scikit-learn)](./aulas/topic_modeling_scikit_learn.ipynb)
 
 
 ## Referências
