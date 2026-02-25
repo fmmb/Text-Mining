@@ -1,5 +1,5 @@
 This repository has been used until 2025.
-[updated verion of this repository](https://github.com/HLT-ISCTE/Text-Mining)
+Check the updated version: [https://github.com/HLT-ISCTE/Text-Mining](https://github.com/HLT-ISCTE/Text-Mining)
 
 # Text Mining
 ## Fernando Batista e Ricardo Ribeiro
